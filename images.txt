@@ -6,5 +6,5 @@
 #ghcr.io/home-assistant/raspberrypi4-homeassistant:stable
 #ollama/ollama
 #ghcr.io/home-assistant/aarch64-hassio-supervisor:2024.06.2
-joinsunsoft/docker.ui
-
+#joinsunsoft/docker.ui
+portainer/portainer
