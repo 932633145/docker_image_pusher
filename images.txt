@@ -8,4 +8,5 @@
 #ghcr.io/home-assistant/aarch64-hassio-supervisor:2024.06.2
 #joinsunsoft/docker.ui
 #portainer/portainer
-tomcat:9
+#tomcat:9
+rocm/vllm-ci:e021ab37f1aebcd18f985f81d2b16f1554bf809c
