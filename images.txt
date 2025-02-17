@@ -9,4 +9,4 @@
 #joinsunsoft/docker.ui
 #portainer/portainer
 #tomcat:9
-rocm/vllm-ci:e021ab37f1aebcd18f985f81d2b16f1554bf809c
+rocm/vllm-ci:5caf77bb1ac0330f968623fc5b63ac74e636d856
