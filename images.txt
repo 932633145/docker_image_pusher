@@ -9,4 +9,5 @@
 #joinsunsoft/docker.ui
 #portainer/portainer
 #tomcat:9
-rocm/vllm-ci:5caf77bb1ac0330f968623fc5b63ac74e636d856
+#rocm/vllm-ci:5caf77bb1ac0330f968623fc5b63ac74e636d856
+milvusdb/milvus:latest
